@@ -1,0 +1,11 @@
+-----------------
+Supra 2003 Blue
+Chevrolet_Monte_Carlo 1971 Yellow
+Volkswagen_Touran 2003 Green
+Mazda_RX-8 2003 Blue
+Nissan_Silvia_S15 1999 Dark_Blue
+Mazda_RX-7 2005 Orange
+Mitsubishi_Lancer 2005 Red
+Ford_Mustang 1964 Black
+Jeep 2012 Yellow
+-------------------
